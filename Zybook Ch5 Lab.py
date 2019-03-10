@@ -5,6 +5,9 @@ favoritePet = input('Enter pet\'s name: \n')
 userNum = int(input('Enter a number: \n'))
 print('You entered:',favoriteColor, favoritePet, userNum)
 
+# my changes here
+
+
 # FIXME (2): Output two password options
 password1 = favoriteColor + '_' + favoritePet
 password2 = str(userNum) + favoriteColor + str(userNum)
